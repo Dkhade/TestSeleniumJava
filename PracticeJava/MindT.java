@@ -24,7 +24,7 @@ public class MindT {
 		Map.Entry<String, String> mpstore = itr.next();
 
 		System.out.println(mpstore.getKey() +"  "+ mpstore.getValue());
-
+		System.out.println("Test data ");
 
 		}}
 }
