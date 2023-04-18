@@ -3,7 +3,7 @@ package mySeleniumPkg;
 public class TestClass {
 	public static void main(String[] args) {
 		String s = "I am Diksha Khade";// I ma ahskid edahk
-		String[] word= s.split(" ");// 
+		/*String[] word= s.split(" ");// 
 		String revstring="";
 		for(String s1:word) {
 			String revWord="";
@@ -14,6 +14,9 @@ public class TestClass {
 		}
 		System.out.println(revstring+revstring);
 		
+		*/
 		
+		String s1="DIIIIIIKKKKsha";
+		s1.
 	}
 }
